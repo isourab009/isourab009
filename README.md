@@ -1,16 +1,29 @@
-### Hi there 👋
+![SOURAB HOSSAIN Banner Image](./banner.png)
 
-<!--
-**isourab009/isourab009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Hey! 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm SOURAB HOSSAIN ! I'm a Data Analyst . I'm from INDIA (west-bengal).
+- <i>Currently:</i> Graduating in ECONOMICS from ALIAH UNIVERSTY  
+
+<h2>💻 I'm Currently working on</h2>
+
+- Web Devlopment course.
+- Exploring diffrent fields & upgrading skills on that.
+
+
+
+
+<h2> About isourab009⚡:</h2>
+
+I'm a Graduate Student living in Kolkata (INDIA), ALIAH UNIVERSITY . I'm a DATA ANLYST. I love to read , Sudeep Nagarkar  & Chetan Bhagat are in list of my favorite authors . i love to enjoy music and explore nature outdoors. If you are around KOLKATA , drop an email and let's catch-up over Coffee!
+ 
+
+- Write to me: [ConnectWith@isourab.com](prince009.hossain@gmail.com)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="prince009.hossain@gmail.com">![ConnectWith@isourab.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sourab009">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
