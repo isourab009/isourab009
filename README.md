@@ -1,4 +1,4 @@
-![SOURAB HOSSAIN Banner Image](./banner.png)
+<img src="./banner.png" width="700%" alt="isourab009 banner">
 
 
 <h2>Hey! 👋</h2>
